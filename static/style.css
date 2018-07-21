@@ -1,0 +1,15 @@
+#message_sender {
+    visibility:hidden;
+}
+
+#header_and_list {
+    position: absolute;
+    right: 100px;
+    top:0px;
+    background-color: #e3e4e5;
+}
+
+#channel_unordered_list > li{
+    color: #e81e77;
+
+}
